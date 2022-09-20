@@ -18,8 +18,8 @@ Then type ```pbt.py --help```.
 **Command Usage Example:**
 
 ```pbt.py paste -c hello_world -p 1.15.226.140:3128```
-![image](https://user-images.githubusercontent.com/111588764/191342342-8caa9c3a-81bb-4796-93d4-67f6214b5cfd.png)
-![image](https://user-images.githubusercontent.com/111588764/191342824-7209b7ee-0d8e-489b-a1d1-fc9767107d46.png)
+![image](https://user-images.githubusercontent.com/111588764/191350909-ed28636b-5d11-4db3-8651-6a7d020ed0fc.png)
+
 
 
 
